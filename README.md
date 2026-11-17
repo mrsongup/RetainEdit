@@ -1,17 +1,4 @@
-以下是可直接粘贴到 GitHub 的英文版本，未修改任何文件。
-
-**GitHub Description**
-
-```text
-RetainEdit: Text-guided retinal lesion editing with adaptive spatial–frequency source reuse to preserve anatomy, texture, and global appearance, without user-provided masks at inference.
-```
-
-**README.md**
-
-```markdown
 # RetainEdit
-
-**RetainEdit: Preserving Anatomy and Texture in Retinal Lesion Editing**
 
 RetainEdit is a framework for text-guided retinal lesion editing. Given a source fundus photograph and an editing instruction, it aims to synthesize the requested lesions while preserving existing retinal anatomy, fine textures, and overall image appearance.
 
